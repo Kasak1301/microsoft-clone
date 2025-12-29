@@ -12,6 +12,13 @@ This project is a front-end UI clone of Microsoft's official homepage and a Netf
 - HTML5
 - CSS3
 
+# Microsoft Website Clone & Netflix UI Attempt
+
+🌐 Live: https://kasak1301.github.io/microsoft-netflix-clone/
+
+This project is a front-end UI clone of Microsoft's official homepage and a Netflix-style landing page, built using only HTML and CSS.
+
+
 ## Purpose
 This project was created to practice real-world website layouts, responsive design, and front-end fundamentals.
 
