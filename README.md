@@ -1,6 +1,6 @@
-# Microsoft Website Clone & Netflix UI Attempt
+# Microsoft Website Clone
 
-This project is a front-end UI clone of Microsoft's official homepage and a Netflix-style landing page, built using only HTML and CSS.
+This project is a front-end UI clone of Microsoft's official homepage built using only HTML and CSS.
 
 ## Features
 - Responsive layout
